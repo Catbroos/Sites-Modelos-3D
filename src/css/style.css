@@ -1,0 +1,25 @@
+body {
+    background-color: greenyellow;
+}
+
+title,
+p,
+h1,
+a,
+li {
+    color: blue;
+}
+
+a,
+p,
+li {
+    font-size: 24px;
+}
+
+a{
+    display: block;
+}
+
+a:hover {
+    color: rgb(255, 0, 255)
+}
